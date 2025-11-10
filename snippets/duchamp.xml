@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <project name="Adarsh0127-Elite/device_xiaomi_duchamp" path="device/xiaomi/duchamp" revision="rising-dolby" />
+  <project name="Adarsh0127-Elite/device_xiaomi_duchamp-kernel" path="device/xiaomi/duchamp-kernel" revision="lineage-23.0" />
+  <project name="Adarsh0127-Elite/proprietary_vendor_xiaomi_duchamp" path="vendor/xiaomi/duchamp" revision="lineage-23.0" />
+
+  <project name="Adarsh0127-Elite/hardware_mediatek" path="hardware/mediatek" revision="lineage-23.0" />
+  <project name="Adarsh0127-Elite/hardware_xiaomi" path="hardware/xiaomi" revision="lineage-23.0" />
+  <project name="Adarsh0127-Elite/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" revision="lineage-23.0" />
+
+</manifest>
